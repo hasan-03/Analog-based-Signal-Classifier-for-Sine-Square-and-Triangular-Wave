@@ -1,0 +1,1 @@
+# Analog-based-Signal-Classifier-for-Sine-Square-and-Triangular-Wave
